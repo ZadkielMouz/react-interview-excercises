@@ -7,11 +7,6 @@
 ```
 yarn
 ```
-o
-
-```
-npm install
-```
 
 2. Ir al archivo `main.tsx` y descomentar las lineas para cada ejercicio.
 
@@ -20,8 +15,6 @@ npm install
 ```
 yarn dev
 ```
-
-
 
 ## Tarea 1 (20 minutos aprox):
 Cree una interfaz simple que muestre la fecha y la hora actuales en el siguiente formato: "DD/MM/YYYY HH:MM:SS". La interfaz debe actualizar la fecha y la hora mostradas cada segundo (un contador).
